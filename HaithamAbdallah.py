@@ -309,7 +309,7 @@ def run():
     st.write("Data source: Yahoo Finance. URL: https://finance.yahoo.com/")
     st.title ("Financial dashboard")
      
-    image = Image.open('C:/Users/habdallah/Desktop/MBD-S1/FP_Section4 (1)/FP_Section4/streamlit/img/investing.jpg')
+    image = Image.open('investing.jpg')
     st.image(image)
     
     # Getting the list of stock tickers from S&P500
