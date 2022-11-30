@@ -3,7 +3,7 @@ matplotlib
 datetime
 streamlit
 yfinance
-PIL
+pillow
 plotly
 pandas_datareader
 numpy
