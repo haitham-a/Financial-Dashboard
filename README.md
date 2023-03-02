@@ -1,2 +1,2 @@
-# Haitham
-Financial Dashboard - Python MBD project
+# Financial Dashboard - Python MBD project
+
